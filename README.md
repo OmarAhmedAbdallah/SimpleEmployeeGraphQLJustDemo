@@ -1,0 +1,1 @@
+This repository showcases a simple GraphQL implementation example. The primary functionalities include fetching a list of all employees and retrieving details for a specific employee based on their ID.
